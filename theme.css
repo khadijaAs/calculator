@@ -1,0 +1,39 @@
+﻿body {
+
+	background: linear-gradient(to right, #cb1f1f, #58d8c4);
+}
+
+tr {
+	margin: 0px;	
+}
+td {
+	margin: 0.5px;
+}
+
+.text {
+	width: 143px;
+	margin-left: 2px;
+	height: 30px;
+	border: 1px solid black;
+	padding: 5px;
+	font: verdana gray;
+}
+
+.main {
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	transform: translateX(-50%) translateY(-50%);
+}
+table {
+
+}
+
+.btn1 {
+	padding: 10px;
+	width: 35px;
+	height: 35px;
+	font-size: 25;
+	background: #5f5dc1;
+	border: black 1px solid;
+}
